@@ -1,7 +1,1 @@
-*
-!.gitignore
-!.github/CONTRIBUTING.md
-!.github/workflows/json_lint.yml
-!README.md
-!anime-offline-database.json
-!dead-entries.json
+test.json
