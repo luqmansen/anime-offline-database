@@ -1,4 +1,4 @@
-name: Update Automation
+name: Docker Update Automation
 on:
   schedule:
   - cron: "*/5 * * * *"
