@@ -8,8 +8,7 @@
 Docker image version of  [manami-project/anime-offline-database](https://github.com/manami-project/anime-offline-database). Pre-seeded inside mongodb image, ready to use.
 
 
-CI Scheduled to update every 5 minutes even though the upstream updated
- every week because why not, its free anyway ¯\_(ツ)_/¯
+CI Scheduled to update everyday  even though the upstream updated  every week.
 
 ## Run 
 ```
